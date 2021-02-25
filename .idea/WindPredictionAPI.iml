@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-core:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-data:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.opencsv:opencsv:5.2" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.10" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-text:1.8" level="project" />
+    <orderEntry type="library" name="Maven: commons-beanutils:commons-beanutils:1.9.4" level="project" />
+    <orderEntry type="library" name="Maven: commons-collections:commons-collections:3.2.2" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-collections4:4.4" level="project" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-json:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.oracle.labs.olcut:olcut-config-json:5.1.5" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.11.3" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.11.3" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.11.3" level="project" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-math:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-common-liblinear:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: de.bwaldvogel:liblinear:2.30" level="project" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-common-libsvm:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: tw.edu.ntu.csie:libsvm:3.24" level="project" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-common-nearest-neighbour:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-common-tree:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-common-xgboost:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: ml.dmlc:xgboost4j_2.12:1.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.esotericsoftware.kryo:kryo:2.22" level="project" />
+    <orderEntry type="library" name="Maven: commons-logging:commons-logging:1.2" level="project" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-interop-core:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-onnx:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.microsoft.onnxruntime:onnxruntime:1.4.0" level="project" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-tensorflow:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.tensorflow:libtensorflow:1.14.0" level="project" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-classification-core:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-classification-tree:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-classification-experiments:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-classification-explanations:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-classification-liblinear:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-classification-libsvm:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-classification-mnnaivebayes:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-classification-sgd:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-classification-xgboost:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-regression-core:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-regression-liblinear:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-regression-libsvm:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-regression-sgd:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-regression-slm:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-math3:3.6.1" level="project" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-regression-tree:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-regression-xgboost:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-multilabel-core:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-clustering-core:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-clustering-kmeans:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-anomaly-core:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-anomaly-libsvm:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-util-infotheory:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.tribuo:tribuo-util-tokenization:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.oracle.labs.olcut:olcut-core:5.1.5" level="project" />
+    <orderEntry type="library" name="Maven: org.jline:jline-terminal:3.16.0" level="project" />
+    <orderEntry type="library" name="Maven: org.jline:jline-reader:3.16.0" level="project" />
+    <orderEntry type="library" name="Maven: org.jline:jline-builtins:3.16.0" level="project" />
+    <orderEntry type="library" name="Maven: org.jline:jline-style:3.16.0" level="project" />
+    <orderEntry type="library" name="Maven: org.jline:jline-terminal-jansi:3.16.0" level="project" />
+    <orderEntry type="library" name="Maven: org.fusesource.jansi:jansi:1.18" level="project" />
+  </component>
+</module>
